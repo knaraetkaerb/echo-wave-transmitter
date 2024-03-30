@@ -1,0 +1,38 @@
+{
+  "name": "echo-wave-transmitter",
+  "version": "1.0.0",
+  "description": "Transmits echoes through waves, enabling long-distance communication and echo-location services.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/echo-wave-transmitter"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "flux-pulse-reader": "1.0.0",
+    "gravity-mind-expander": "1.0.0",
+    "sinon": "1.0.0",
+    "helmet": "1.0.0",
+    "bcrypt": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "moment": "1.0.0",
+    "passport": "1.0.0",
+    "mysql": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "body-parser": "1.0.0",
+    "bluebird": "1.0.0",
+    "nodemon": "1.0.0",
+    "react-dom": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "axios": "1.0.0",
+    "cors": "1.0.0",
+    "redux": "1.0.0",
+    "ipfs-http-client": "1.0.0"
+  }
+}
